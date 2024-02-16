@@ -1,0 +1,211 @@
+51240876531825
+ProjectLocal
+Bumpon_3M_F0502
+
+
+0
+0
+0
+ProjectLocal
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_Dual
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+6
+2
+ProjectLocal
+C_0805_2012Metric_Pad1.18x1.45mm_HandSolder_Dual_Reversible
+Capacitor SMD 0805 (2012 Metric), square (rectangular) end terminal, IPC_7351 nominal with elongated pad for handsoldering. (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf, https://docs.google.com/spreadsheets/d/1BsfQQcO9C6DZCsRaXUlFlo91Tg2WpOkGARC1WS5S8t0/edit?usp=sharing), generated with kicad-footprint-generator
+capacitor handsolder
+0
+10
+2
+ProjectLocal
+DIP-20_W15.24mm
+24-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils)
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil
+0
+20
+20
+ProjectLocal
+DIP40_Reversible_ZigZag
+Through hole headers for BluePill module. No SWD breakout. Fancy silkscreen.
+module BlluePill Blue Pill header SWD breakout
+0
+80
+40
+ProjectLocal
+Diode-dual
+
+
+0
+6
+2
+ProjectLocal
+Graphic_Mask_HalfHole
+
+
+0
+0
+0
+ProjectLocal
+H_M2_GH60_MountingHole
+
+
+0
+0
+0
+ProjectLocal
+H_M2_Spacer_Hole
+
+
+0
+0
+0
+ProjectLocal
+Kailh_socket_MX_substitutable
+MX-style keyswitch with Kailh socket mount
+MX,cherry,gateron,kailh,pg1511,socket
+0
+2
+2
+ProjectLocal
+Kailh_socket_PG1350_substitutable
+Kailh "Choc" PG1350 keyswitch socket mount
+kailh,choc
+0
+2
+2
+ProjectLocal
+LED_SK6812_PLCC4_5.0x5.0mm_P3.2mm_Reversible
+https://cdn-shop.adafruit.com/product-files/1138/SK6812+LED+datasheet+.pdf
+LED RGB NeoPixel
+0
+8
+4
+ProjectLocal
+LED_WS2812B_PLCC4_5.0x5.0mm_P3.2mm
+5.0mm x 5.0mm Addressable RGB LED NeoPixel, https://cdn-shop.adafruit.com/datasheets/WS2812B.pdf
+LED RGB NeoPixel PLCC-4 5050
+0
+4
+4
+ProjectLocal
+Mini_DC_Motor
+
+
+0
+2
+2
+ProjectLocal
+Resistor-Hybrid
+
+
+0
+6
+2
+ProjectLocal
+Resistor-Hybrid_Reversible
+
+
+0
+10
+2
+ProjectLocal
+RotaryEncoder_Alps_EC11E-Switch_Vertical_H20mm_Reversible
+Alps rotary encoder, EC12E... with switch, vertical shaft, http://www.alps.com/prod/info/E/HTML/Encoder/Incremental/EC11/EC11E15204A3.html
+rotary encoder
+0
+7
+6
+ProjectLocal
+SK6812-MINI-E
+
+
+0
+4
+4
+ProjectLocal
+SK6812-MINI-E_Reversible
+
+
+0
+8
+4
+ProjectLocal
+SOT-23-6_Handsoldering_Reversible
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+12
+6
+ProjectLocal
+SOT-23_Handsoldering_Reversible
+6-pin SOT-23 package, Handsoldering
+SOT-23-6 Handsoldering
+0
+6
+3
+ProjectLocal
+SW_Cherry_MX_PCB_1.00u_BSilkRef
+Cherry MX keyswitch PCB Mount with 1.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.00u
+0
+4
+2
+ProjectLocal
+SW_Hotswap_Kailh
+Kailh keyswitch Hotswap Socket, 
+Kailh Keyboard Keyswitch Switch Hotswap Socket
+0
+2
+2
+ProjectLocal
+SW_MX_PG1350_NoLed
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+4
+2
+ProjectLocal
+SW_MX_PG1350_reversible
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+7
+2
+ProjectLocal
+SW_MX_PG1350_substitutable
+Kailh "Choc" PG1350 keyswitch, able to be mounted on front or back of PCB
+kailh,choc
+0
+4
+2
+ProjectLocal
+SW_Push_SPST_3x6mm
+
+
+0
+2
+2
+ProjectLocal
+SW_Push_SPST_3x6mm_Reversible
+
+
+0
+4
+2
+ProjectLocal
+SW_Redragon_LowProfile_PCB_1.00u
+Cherry MX keyswitch PCB Mount with 1.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.00u
+0
+2
+2
+ProjectLocal
+SW_Redragon_LowProfile_Reversible_PCB_1.00u
+Cherry MX keyswitch PCB Mount with 1.00u keycap
+Cherry MX Keyboard Keyswitch Switch PCB Cutout 1.00u
+0
+3
+2
