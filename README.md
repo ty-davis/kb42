@@ -37,13 +37,14 @@ that says `Show Design Tab`. Now a new paintbrush icon
 has appeared above. Select that tab and click `Load
 Draft Definition`. That will prompt you to upload a
 json file that corresponds to some via specific definitions
-for this keyboard. Upload the json file found in this
-repo -> assets -> firmware -> kb42_via-definition.json
+for this keyboard. Upload [this json file](https://github.com/TyGuy60401/kb42/blob/dc6ad67e50948e26156101fd82f4def80222cbb4/assets/firmware/kb42_via-definition.json)
+which can be found in this repo -> assets -> firmware
+-> kb42_via-definition.json
 
 Once that file is uploaded and the via app accepts it
 you'll be able to change all of the configuration for
 the board. You can see the configuration that I'm using
 for the board by uploading configuration file called
-`kb42_TyGuy60401_layout.json` which can be found in
+[`kb42_TyGuy60401_layout.json`](https://github.com/TyGuy60401/kb42/blob/dc6ad67e50948e26156101fd82f4def80222cbb4/assets/firmware/kb42_TyGuy60401_layout.json) which can be found in
 the firmware folder.
 
