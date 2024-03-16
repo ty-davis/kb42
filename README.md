@@ -24,7 +24,8 @@ need to follow a few extra steps the first time you
 use it.
 
 
-After connecting the keyboard to your computer navigate
+After flashing the via specific firmware to the keyboard
+and connecting the keyboard to your computer navigate
 to the [via website](usevia.app) and press `authorize
 device`.  Select kb42 in the dropdown that appears and
 you'll enter the app.
