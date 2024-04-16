@@ -32,8 +32,8 @@ you'll enter the app.
 
 
 Usually you can start changing the keymaps to the board
-at this point but we need an extra step. Go to the settings
-icon in the top center and select enable the option
+at this point but we need to complete an extra step. Go to the settings
+icon in the top center and enable the option
 that says `Show Design Tab`. Now a new paintbrush icon
 has appeared above. Select that tab and click `Load
 Draft Definition`. That will prompt you to upload a
@@ -45,7 +45,7 @@ which can be found in this repo -> assets -> firmware
 Once that file is uploaded and the via app accepts it
 you'll be able to change all of the configuration for
 the board. You can see the configuration that I'm using
-for the board by uploading configuration file called
+for the board by uploading the configuration file called
 [`kb42_TyGuy60401_layout.json`](https://github.com/TyGuy60401/kb42/blob/dc6ad67e50948e26156101fd82f4def80222cbb4/assets/firmware/kb42_TyGuy60401_layout.json) which can be found in
 the firmware folder.
 
