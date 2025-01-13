@@ -2,7 +2,7 @@
 Split 42 key keyboard utilizing Redragon low profile keys
 
 It is heavily inspired by the [Budgy](https://github.com/doesntfazer/Budgy)
-while also being heavily influenced in design my the
+while also being influenced in design by the
 [Cheapino](https://github.com/tompi/cheapino).
 
 Build guides coming soon. Source code for the firmware
